@@ -1,41 +1,33 @@
-# 👋 Hi, I'm Al Ameen
+# Hi, I’m Al Ameen 👋
 
-🚀 I’m a Full-Stack Developer based in Kerala, India  
-🧠 I build modern scalable web apps using **Next.js**, **Node.js**, **MongoDB**, and more  
-📂 I’m currently working on my ride-sharing platform project and expanding my backend architecture skills  
-
----
-
-## 🧰 Tech Stack
-
-**Languages:** JavaScript · TypeScript · HTML · CSS  
-**Frontend:** React · Next.js · TailwindCSS (or whichever)  
-**Backend:** Node.js · Express.js · TypeORM/Mongoose (with TypeScript)  
-**Database / Storage:** MongoDB · MySQL · Redis · Cloudinary  
-**DevOps & Tools:** GitHub · Docker · Vercel · Render · Figma  
+I’m a Full-Stack developer from Kerala. I work mostly with **Next.js**, **Node.js**, and **MongoDB**.  
+Currently building a ride-sharing platform and improving backend architecture and TypeScript patterns.
 
 ---
 
-## 📂 Projects & Highlights
+### What I build
+- Ride-sharing platform (Next.js + TypeScript + Node.js + MongoDB) — subscription, coupons, SOS, live tracking  
+- Projects: portfolio, small clones (Netflix landing, product pages) — check repos below
 
-- [Portfolio Website](https://portfolio2-alameena8841-gmailcoms-projects.vercel.app) – My live portfolio showing recent projects  
-- Ride-Sharing Platform – Built with Next.js + TypeScript + Node.js + MongoDB. Features: subscription system, coupon support, live-tracking, SOS-feature & more.  
-- Other clones: Netflix-website, Ford web clone, Huawei landing, etc. (Check my GitHub repos)
+### Selected projects
+- **Portfolio** — https://portfolio2-alameena8841-gmailcoms-projects.vercel.app  
+- **Ride-Sharing (backend)** — `repo-name-backend`  
+- **Ride-Sharing (frontend)** — `repo-name-frontend`
 
----
-
-## 📊 GitHub Stats  
-![Al Ameen’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Alameena1&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alameena1&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-ameen1/)  
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-000?style=flat&logo=vercel&logoColor=white)](https://portfolio2-alameena8841-gmailcoms-projects.vercel.app)  
-[![Email](https://img.shields.io/badge/Email-Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alameena8841@gmail.com.com)
+(Replace the repo names above with exact repo links from your account.)
 
 ---
 
-⭐ Thanks for visiting my profile!  
-<!-- Feel free to drop a star if you like my projects ;) -->
+### Quick links
+- LinkedIn — https://www.linkedin.com/in/al-ameen1/  
+- Portfolio — https://portfolio2-alameena8841-gmailcoms-projects.vercel.app  
+- GitHub — https://github.com/Alameena1
+
+---
+
+### GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alameena1&show_icons=true&count_private=true&hide_rank=true)
+
+---
+
+Thanks for stopping by. 🙂
